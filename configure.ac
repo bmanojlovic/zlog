@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([zlog], [1.2.7], [HardySimpson1984@gmail.com])
+AC_INIT([zlog], [1.2.12], [HardySimpson1984@gmail.com])
 AC_CONFIG_SRCDIR([src/version.h])
 AC_CONFIG_MACRO_DIR([m4])
 # Checks for programs.
